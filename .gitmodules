@@ -1,3 +1,6 @@
 [submodule "cs6747-extra-credit-1"]
 	path = cs6747-extra-credit-1
 	url = ../cs6747-extra-credit-1
+[submodule "cs6747-lab1"]
+	path = cs6747-lab1
+	url = ../cs6747-lab1
