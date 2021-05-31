@@ -4,3 +4,6 @@
 [submodule "cs6747-lab1"]
 	path = cs6747-lab1
 	url = ../cs6747-lab1
+[submodule "cs6747-reading-slides"]
+	path = cs6747-reading-slides
+	url = ../cs6747-reading-slides
