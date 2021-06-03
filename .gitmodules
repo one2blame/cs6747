@@ -7,3 +7,6 @@
 [submodule "cs6747-reading-slides"]
 	path = cs6747-reading-slides
 	url = ../cs6747-reading-slides
+[submodule "cs6747-lab2"]
+	path = cs6747-lab2
+	url = ../cs6747-lab2
