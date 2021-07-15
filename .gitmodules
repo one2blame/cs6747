@@ -10,3 +10,9 @@
 [submodule "cs6747-lab2"]
 	path = cs6747-lab2
 	url = ../cs6747-lab2
+[submodule "cs6747-lab3"]
+	path = cs6747-lab3
+	url = ../cs6747-lab3
+[submodule "cs6747-lab4"]
+	path = cs6747-lab4
+	url = ../cs6747-lab4
